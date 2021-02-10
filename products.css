@@ -1,0 +1,230 @@
+body{
+
+font-family:Times New Roman;
+text-align:justify;
+ font-size:;
+ background:white;
+    color:blue;
+}
+
+ 
+/* The sidebar menu */
+.navt {
+
+    opacity:;
+  height:105px;
+  width:100%; 
+  position:fixed;
+  top:0;
+border:0px solid green;
+  right:0;
+left:0;
+  padding-top: 0px;
+
+
+
+}
+
+
+.navb{
+
+    opacity:;
+  height:300px;
+  width:100%; 
+  position:;
+  top:;
+border:0px solid green;
+  right:0;
+left:0;
+  padding-top:;
+
+
+
+}
+.linknav{
+    height:;
+width:60px;
+border:2px solid blue;
+border-radius:10px;
+}
+.dmd1{
+
+border:0px solid #C2C2C2;
+border-radius:0px;
+color:red;
+font-size:13px;
+
+}
+.dmd2{
+
+border:0px solid #C2C2C2;
+border-radius:0px;
+color:red;
+font-size:13px;
+} 
+
+
+
+.navt1 {
+
+    opacity:;
+  height:50px;
+  width:100%; 
+  position:;
+  top:0;
+border:0px solid red;
+  right:;
+left:;
+  padding-top:;
+border-radius:3px;
+text-align:center;
+}
+.navt2 {
+
+    opacity:;
+  height:30px;
+  width:100%; 
+  position:;
+  top:;
+border:0px solid yellow;
+right:0;
+left:0;
+ padding-top:;
+border-radius:3px;
+text-align:center;
+}
+
+
+
+
+
+
+.cont, a:hover {
+  color:#FF002E;
+}
+
+
+d{color:white;
+opacity:1;
+}
+.fs{  color:;
+    font-size:13px;
+    text-decoration:;
+}
+.fs1{  color:;
+    font-size:18px;
+    text-decoration:underline;
+}
+
+z{
+    font-size:20px;
+}
+k{
+    font-size:30px;
+color: blue;
+
+}
+
+
+.gradt{background:white;}
+.gradb{background:white;}
+
+
+
+
+.item{
+       width:100%;
+    height:250px;
+    background:white;
+    border:0px solid green;
+    border-radius:;
+    
+    
+}
+.photo{
+       width:65%;
+    height:90%; 
+    background:white;
+    border:1px solid  #C2C2C2;
+    border-radius:10px;
+
+    overflow:scroll;
+    text-align:center;
+float: left;
+
+
+    
+}
+.infor{
+       width:30%;
+    height:;
+
+    border:0px solid grey;
+    border-radius:;
+    text-align:center;
+float:right;
+}
+.tagi{
+    width:100%;
+    height:;
+    background:white;
+    border:1px solid #C2C2C2; 
+    border-radius:10px;
+    color: #C2C2C2;
+    
+    text-align:center;
+    float:left;
+font-size:13px;
+    
+}
+    
+.tags{
+        width:80px;
+    height:;
+    background:white;
+    border:1px solid  #C2C2C2;
+    border-radius:10px;
+    color: #C2C2C2;
+    text-align:center;
+    float:left;
+font-size:13px;
+
+    
+}
+    
+.tagc{
+    width:100%;
+    height:;
+    background:white;
+    border:0px solid black;
+    border-radius:10px;
+    color:black;
+    opacity:1;
+    text-align:center;
+    float:left;
+font-size:15px;
+    
+}
+    
+.bdy{
+padding-top:60px;
+padding-left:10px;
+padding-right:10px;
+}
+.bdy2{
+width:;
+font-size:13px;
+color:blue;
+border:0px solid blue;
+border-radius:10px;
+padding:5px;
+
+
+}
+.aud{
+
+    width:3px;
+opacity:0;
+
+
+}
